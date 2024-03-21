@@ -50,7 +50,7 @@ To run the e-commerce back end locally, you need to have Node.js installed on yo
 
 ## Usage
 
-Here is a demo video showcasting the functionality of the API: [Demo video](https://drive.google.com/file/d/1HNtLBcwYWN_S1p350Uvk1xGNJoCnz_8_/view)
+Here is a demo video showcasting the functionality of the API: [Demo video](https://drive.google.com/file/d/1uHzcM-meKmPFO_G6JnRDZNa-f4mfS8-Y/view)
 
 Routes tested:
 - GET /api/categories
